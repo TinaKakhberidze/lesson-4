@@ -4,6 +4,8 @@ a{
 ul a{
 	font-size: 16px;
 	color: white;
+	width: 70px;
+	height: 18px;
 }
 nav ul li{
 	list-style-type: none;
@@ -11,14 +13,17 @@ nav ul li{
 header{
 background-color: #0020F4;
 height: 388px;
+width: 1920px;
 }
 
 }
 header img{
 	width: 115px;
+	height: 65px;
 }
 section img{
 	width: 1195px;
+	height: 600px;
 }
 section h1{
 	font-size: 28px;
@@ -26,10 +31,75 @@ section h1{
 
 }
 .contact-block{
-	background-color: white;
+	background-color: #FFFFFF;
+	width: 160px; 
+	height: 55px;
 }
 .contact-block a {
 	color: #171717;
-	width: 81; 
-	height: 19;
+
+}
+div img{
+	width: 219px;
+	height: 219px;
+}
+div p {
+	font-size: 16px;
+	color: #171717 ;
+}
+div .para-one {
+	width: 951px;
+	height: 177px;
+}
+
+div .para-two {
+	width: 951px;
+	height: 281px;
+}
+div .para-three{
+	width: 951px;
+	height: 281px;
+
+}
+div .para-four{
+	width: 951px;
+	height: 151px;
+}
+div .para-five{
+	color: #FFFFFF;
+	font-size: 16px;
+	width: 207px;
+	height: 19px;
+}
+
+
+div .para-five {
+	background-color: #0A22F4;
+}
+footer {
+	background-color: #0A22F4;
+}
+footer p {
+	font-size: 16px;
+	color: #FFFFFF;
+}
+footer .last-p{
+	background-color: #0A22F4;
+	width: 209px;
+	height: 19px;
+}
+footer .footer-p{
+	width: 106px;
+	height: 16px;
+	color: #FFFFFF;
+	background-color: #0A22F4;
+	font-size: 13px;
+}
+div .heart{
+	width: 26px;
+	height: 26px;
+}
+div .logo-two{
+	width: 121px;
+	height: 35px;
 }
