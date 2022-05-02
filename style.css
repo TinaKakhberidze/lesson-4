@@ -1,0 +1,35 @@
+a{
+	text-decoration: none;
+}
+ul a{
+	font-size: 16px;
+	color: white;
+}
+nav ul li{
+	list-style-type: none;
+}
+header{
+background-color: #0020F4;
+height: 388px;
+}
+
+}
+header img{
+	width: 115px;
+}
+section img{
+	width: 1195px;
+}
+section h1{
+	font-size: 28px;
+	color: #171717;
+
+}
+.contact-block{
+	background-color: white;
+}
+.contact-block a {
+	color: #171717;
+	width: 81; 
+	height: 19;
+}
